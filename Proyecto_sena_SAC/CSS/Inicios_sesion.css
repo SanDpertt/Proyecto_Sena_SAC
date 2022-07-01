@@ -1,0 +1,70 @@
+    body {
+        background-image: url(./IMG/Backgraund.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-family: cursive;
+    }
+    
+    .formu {
+        border: 1px #DADADA solid;
+        border-style: solid;
+        margin-top: 5%;
+        margin-left: 40%;
+        margin-right: 40%;
+        height: 400px;
+        text-align: center;
+        background-color: white;
+    }
+    
+    .form-floating {
+        margin-top: 5px;
+    }
+    
+    .Register {
+        border: 1px #DADADA solid;
+        border-style: solid;
+        margin-top: 10px;
+        margin-left: 40%;
+        margin-right: 40%;
+        height: 60px;
+        text-align: center;
+        background-color: white;
+    }
+    
+    #ptext {
+        padding: 15px;
+    }
+    
+    #texto {
+        font-family: cursive;
+        padding-top: 30px;
+        font-size: 50px;
+    }
+    
+    #formulario {
+        padding-top: 30px;
+    }
+    
+    #button {
+        border: 1px #DADADA solid;
+        border-radius: 10px;
+        width: 250px;
+        margin-top: 10px;
+    }
+    
+    #campo1 {
+        border: 1px #DADADA solid;
+        border-radius: 5px;
+        width: 250px;
+    }
+    
+    #campo2 {
+        border: 1px #DADADA solid;
+        border-radius: 5px;
+        width: 250px;
+    }
+    
+    #OLVCÑ {
+        font-size: 12px;
+        padding-top: 10px;
+    }
